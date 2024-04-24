@@ -16,7 +16,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 [
                     [
                     InlineKeyboardButton("ClOze", callback_data = "close"),
-                    InlineKeyboardButton('MY HOME', url='https://t.me/Anime_Nation')
+                    InlineKeyboardButton('MY HOME', url='https://t.me/manhwa_clubb')
                     ]
                 ]
             )
