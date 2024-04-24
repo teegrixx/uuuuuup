@@ -89,7 +89,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("AbOuT", callback_data = "about"),
-                    InlineKeyboardButton('AnIMe', url='https://t.me/Manhwa_clubb')
+                    InlineKeyboardButton('MaNhWa', url='https://t.me/Manhwa_clubb')
                 ]
             ]
         )
